@@ -1,6 +1,6 @@
-# MiniaAdminAuthPortal
+# Minia - Angular 12 Minia - Minimal Admin & Dashboard Template
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
 ## Development server
 
